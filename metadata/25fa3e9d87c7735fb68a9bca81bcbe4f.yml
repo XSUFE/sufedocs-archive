@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 25fa3e9d87c7735fb68a9bca81bcbe4f
+url: https://docs.xsufe.com/files/25fa3e9d87c7735fb68a9bca81bcbe4f.pdf
+type: book
+data:
+  title: 会计学 第6版
+  authors:
+    - 陈信元
+  edition: "6"
+  publisher: 上海财经大学出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-5642-3825-4
+  filetype: pdf

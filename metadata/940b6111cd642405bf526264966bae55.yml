@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 940b6111cd642405bf526264966bae55
+url: https://docs.xsufe.com/files/940b6111cd642405bf526264966bae55.pdf
+type: book
+data:
+  title: 民法总论 第6版
+  authors:
+    - 梁慧星
+  edition: "6"
+  publisher: 法律出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-5197-5947-6
+  filetype: pdf

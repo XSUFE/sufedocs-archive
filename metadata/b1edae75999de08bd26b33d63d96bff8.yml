@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: b1edae75999de08bd26b33d63d96bff8
+url: https://docs.xsufe.com/files/b1edae75999de08bd26b33d63d96bff8.pdf
+type: book
+data:
+  title: 论法的精神
+  authors:
+    - 孟德斯鸠
+  translators:
+    - 严复
+  edition: "1"
+  publisher: 上海三联书店
+  publish_year: "2009"
+  isbn:
+    - 978-7-5426-2966-1
+  filetype: pdf

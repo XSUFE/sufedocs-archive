@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: b9321046052724bb203b08e31f9c5167
+url: https://docs.xsufe.com/files/b9321046052724bb203b08e31f9c5167.pdf
+type: book
+data:
+  title: 会计学：企业决策的基础 第十六版
+  authors:
+    - Jan R Williams
+  translators:
+    - 赵银德
+  edition: "16"
+  publisher: 机械工业出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-111-40610-5
+  filetype: pdf

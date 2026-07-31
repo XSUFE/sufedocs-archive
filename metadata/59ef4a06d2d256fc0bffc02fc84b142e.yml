@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 59ef4a06d2d256fc0bffc02fc84b142e
+url: https://docs.xsufe.com/files/59ef4a06d2d256fc0bffc02fc84b142e.pdf
+type: book
+data:
+  title: 合同法学(第二版)
+  authors:
+    - 韩世远
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2022"
+  isbn:
+    - 978-7-04-059042-5
+  filetype: pdf

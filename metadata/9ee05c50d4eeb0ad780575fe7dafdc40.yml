@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 9ee05c50d4eeb0ad780575fe7dafdc40
+url: https://docs.xsufe.com/files/9ee05c50d4eeb0ad780575fe7dafdc40.pdf
+type: book
+data:
+  title: 法理学 第2版
+  authors:
+    - 《法理学》编写组
+  edition: "2"
+  publisher: 人民出版社；高等教育出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-01-022827-3
+  filetype: pdf

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c5e275998fcfd371da1e543344f4a4d9
+url: https://docs.xsufe.com/files/c5e275998fcfd371da1e543344f4a4d9.pdf
+type: book
+data:
+  title: 金融机构与风险管理 第2版
+  authors:
+    - 陈选娟
+    - 柳永明
+  edition: "2"
+  publisher: 格致出版社，上海人民出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5432-2924-2
+  filetype: pdf

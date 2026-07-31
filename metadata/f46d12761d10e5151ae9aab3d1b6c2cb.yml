@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f46d12761d10e5151ae9aab3d1b6c2cb
+url: https://docs.xsufe.com/files/f46d12761d10e5151ae9aab3d1b6c2cb.pdf
+type: book
+data:
+  title: Principles of financial regulation
+  authors:
+    - John Armour
+  edition: "1"
+  publisher: Oxford University Press
+  publish_year: "2016"
+  isbn:
+    - 978-0-19-109004-2
+  filetype: pdf

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0540f2a462cfb89cdbc0d84aaf91cf21
+url: https://docs.xsufe.com/files/0540f2a462cfb89cdbc0d84aaf91cf21.pdf
+type: book
+data:
+  title: 期权,期货及其他衍生产品Options, futures, and other derivatives
+  authors:
+    - John C. Hull
+  translators:
+    - 陈国庆
+  edition: "1"
+  publisher: 机械工业出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-111-60276-7
+  filetype: pdf

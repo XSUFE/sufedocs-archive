@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 405a1348233e4e154a580714c38401f1
+url: https://docs.xsufe.com/files/405a1348233e4e154a580714c38401f1.pdf
+type: book
+data:
+  title: 社会保险经济学
+  authors:
+    - 封进
+  edition: "1"
+  publisher: 北京大学出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-301-30479-2
+  filetype: pdf

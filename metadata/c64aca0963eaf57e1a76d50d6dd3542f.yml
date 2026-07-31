@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c64aca0963eaf57e1a76d50d6dd3542f
+url: https://docs.xsufe.com/files/c64aca0963eaf57e1a76d50d6dd3542f.pdf
+type: book
+data:
+  title: 《证券法学》(第五版)
+  authors:
+    - 朱锦清
+  edition: "5"
+  publisher: 北京大学出版社
+  publish_year: "2022"
+  isbn:
+    - 978-7-301-33110-1
+  filetype: pdf

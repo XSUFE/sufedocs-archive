@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 1417d5f6fc4c990499985e3032ebf384
+url: https://docs.xsufe.com/files/1417d5f6fc4c990499985e3032ebf384.pdf
+type: book
+data:
+  title: 基础会计
+  authors:
+    - 未知
+  edition: "7"
+  publisher: 东北财经大学出版社
+  publish_year: "2022"
+  isbn:
+    - 978-7-5654-4192-9
+  filetype: pdf

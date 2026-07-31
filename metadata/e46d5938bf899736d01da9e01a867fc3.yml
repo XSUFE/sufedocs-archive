@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e46d5938bf899736d01da9e01a867fc3
+url: https://docs.xsufe.com/files/e46d5938bf899736d01da9e01a867fc3.pdf
+type: book
+data:
+  title: 民法物权
+  authors:
+    - 刘家安
+  edition: "1"
+  publisher: 中国政法大学出版社
+  publish_year: "2022"
+  isbn:
+    - 978-7-5764-0784-6
+  filetype: pdf

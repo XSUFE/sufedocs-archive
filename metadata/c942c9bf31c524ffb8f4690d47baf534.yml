@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c942c9bf31c524ffb8f4690d47baf534
+url: https://docs.xsufe.com/files/c942c9bf31c524ffb8f4690d47baf534.pdf
+type: book
+data:
+  title: 财务决策支持系统
+  authors:
+    - 饶艳超
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2010"
+  isbn:
+    - 978-7-5642-0712-0
+  filetype: pdf

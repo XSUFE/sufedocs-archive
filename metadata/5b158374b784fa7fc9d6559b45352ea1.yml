@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 5b158374b784fa7fc9d6559b45352ea1
+url: https://docs.xsufe.com/files/5b158374b784fa7fc9d6559b45352ea1.pdf
+type: book
+data:
+  title: "Computer Vision: Algorithms and Applications (Texts in Computer Science)"
+  authors:
+    - Richard Szeliski
+  edition: "2"
+  publisher: Springer Nature Switzerland AG
+  publish_year: "2021"
+  isbn:
+    - 978-3-030-34371-2
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 599d1dd6e5279797d421b9ac7ae413e3
+url: https://docs.xsufe.com/files/599d1dd6e5279797d421b9ac7ae413e3.pdf
+type: book
+data:
+  title: 商法学(第六版)
+  authors:
+    - 施天涛
+  edition: "6"
+  publisher: 法律出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-5197-4349-9
+  filetype: pdf

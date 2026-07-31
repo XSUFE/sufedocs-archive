@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: b5a2abecf783b2d7e197207126b957b7
+url: https://docs.xsufe.com/files/b5a2abecf783b2d7e197207126b957b7.pdf
+type: book
+data:
+  title: 刑法学(第六版)
+  authors:
+    - 张明楷
+  edition: "6"
+  publisher: 法律出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-5197-5801-1
+  filetype: pdf

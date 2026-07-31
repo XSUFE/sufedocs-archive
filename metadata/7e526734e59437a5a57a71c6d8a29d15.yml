@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 7e526734e59437a5a57a71c6d8a29d15
+url: https://docs.xsufe.com/files/7e526734e59437a5a57a71c6d8a29d15.pdf
+type: book
+data:
+  title: 马工程国际经济法学第三版
+  authors:
+    - 余劲松
+  edition: "3"
+  publisher: 高等教育出版社
+  publish_year: "2026"
+  isbn:
+    - 978-7-04-062246-1
+  filetype: pdf

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0da5258b18c8c19588d07b32f8796e61
+url: https://docs.xsufe.com/files/0da5258b18c8c19588d07b32f8796e61.pdf
+type: book
+data:
+  title: 市场营销学 第4版
+  authors:
+    - 晁钢令
+    - 楼尊
+  edition: "4"
+  publisher: 上海财经大学出版社
+  publish_year: "2014"
+  isbn:
+    - 978-7-5642-1713-6
+  filetype: pdf

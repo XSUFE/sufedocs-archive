@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: b406271a90367e3f4082bdba111f3663
+url: https://docs.xsufe.com/files/b406271a90367e3f4082bdba111f3663.pdf
+type: book
+data:
+  title: Horngren's accounting 亨格瑞会计学第十版
+  authors:
+    - Tracie Nobles
+    - Brenda Mattison
+    - Ella Mae Matsumura
+  edition: "10"
+  publisher: 清华大学出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-302-47203-2
+  filetype: pdf

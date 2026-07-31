@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 56360b1eb8d2d25fba94e503a5d9137d
+url: https://docs.xsufe.com/files/56360b1eb8d2d25fba94e503a5d9137d.pdf
+type: book
+data:
+  title: 新编经济法概论
+  authors:
+    - 戚伟平
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2015"
+  isbn:
+    - 978-7-5642-2168-3
+  filetype: pdf
