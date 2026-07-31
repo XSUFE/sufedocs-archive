@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 050b7ef94f1d94e05da5e045b6d4a4fa
+url: https://docs.xsufe.com/files/050b7ef94f1d94e05da5e045b6d4a4fa.pdf
+type: book
+data:
+  title: 法理学
+  authors:
+    - 张文显
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-04-049944-5
+  filetype: pdf

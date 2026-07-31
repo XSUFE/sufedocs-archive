@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 58638d0587d4f4fd8724eb71ea27725f
+url: https://docs.xsufe.com/files/58638d0587d4f4fd8724eb71ea27725f.pdf
+type: book
+data:
+  title: 财务报表分析 第4版
+  authors:
+    - 何韧
+  edition: "4"
+  publisher: 上海财经大学出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-5642-3189-7
+  filetype: pdf

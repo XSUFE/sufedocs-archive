@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 11e7353ee0f42b89919b406bdc5e9c34
+url: https://docs.xsufe.com/files/11e7353ee0f42b89919b406bdc5e9c34.pdf
+type: book
+data:
+  title: 商业伦理与会计职业道德
+  authors:
+    - 陈汉文
+    - 韩洪灵
+  edition: "1"
+  publisher: 中国人民大学出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-300-28259-6
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e9459b4d3f2d709b967e9431e419dea2
+url: https://docs.xsufe.com/files/e9459b4d3f2d709b967e9431e419dea2.pdf
+type: book
+data:
+  title: 逻辑学 第2版
+  authors:
+    - 何向东
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2018"
+  isbn:
+    - 978-4-00-810059-7
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c632fada19ab2c746bcc88a32c5eb928
+url: https://docs.xsufe.com/files/c632fada19ab2c746bcc88a32c5eb928.pdf
+type: book
+data:
+  title: 投资学 第10版
+  authors:
+    - Zvi Bodie
+  edition: "10"
+  publisher: 机械工业出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-111-58160-4
+  filetype: pdf

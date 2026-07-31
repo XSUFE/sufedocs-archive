@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 42b8346412a1305945bcbdfa9c4924b0
+url: https://docs.xsufe.com/files/42b8346412a1305945bcbdfa9c4924b0.pdf
+type: book
+data:
+  title: 财务管理·以Excel为分析工具 原书第4版
+  authors:
+    - Holden, Craig W.
+  edition: "4"
+  publisher: 机械工业出版社
+  publish_year: "2014"
+  isbn:
+    - 978-7-111-47319-0
+  filetype: pdf

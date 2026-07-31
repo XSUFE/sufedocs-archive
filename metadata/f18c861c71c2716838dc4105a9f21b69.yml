@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f18c861c71c2716838dc4105a9f21b69
+url: https://docs.xsufe.com/files/f18c861c71c2716838dc4105a9f21b69.pdf
+type: book
+data:
+  title: " 新编会计学原理 基础会计"
+  authors:
+    - 李海波
+  edition: "20"
+  publisher: 立信会计出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-5429-6250-8
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e8d6af784c1a78f140ee9bb251034a18
+url: https://docs.xsufe.com/files/e8d6af784c1a78f140ee9bb251034a18.pdf
+type: book
+data:
+  title: 保险法 第3版
+  authors:
+    - 李玉泉
+  edition: "3"
+  publisher: 法律出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-5197-3716-0
+  filetype: pdf

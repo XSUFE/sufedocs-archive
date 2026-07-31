@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ca7c77698a1c77d07d7bbd140ca92451
+url: https://docs.xsufe.com/files/ca7c77698a1c77d07d7bbd140ca92451.pdf
+type: book
+data:
+  title: 高等院校研究生用书 会计研究方法论 第3版
+  authors:
+    - 吴溪
+  edition: "3"
+  publisher: 中国人民出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-300-28971-7
+  filetype: pdf

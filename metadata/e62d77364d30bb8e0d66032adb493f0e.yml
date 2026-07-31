@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e62d77364d30bb8e0d66032adb493f0e
+url: https://docs.xsufe.com/files/e62d77364d30bb8e0d66032adb493f0e.pdf
+type: book
+data:
+  title: 财务法规与会计职业道德
+  authors:
+    - 未知
+  edition: "13"
+  publisher: 人民邮电出版社
+  publish_year: "2014"
+  isbn:
+    - 978-7-115-35921-6
+  filetype: pdf

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 836b44d0064bebbc4757c8816c2076af
+url: https://docs.xsufe.com/files/836b44d0064bebbc4757c8816c2076af.pdf
+type: book
+data:
+  title: "东北财经大学出版社会计教材 中级财务会计习题与案例 第6版 "
+  authors:
+    - 陈立军
+    - 崔凤鸣
+  edition: "6"
+  publisher: 东北财经大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5654-3188-3
+  filetype: pdf

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c9d7eaee4d153c6e14eb4178d74fe770
+url: https://docs.xsufe.com/files/c9d7eaee4d153c6e14eb4178d74fe770.pdf
+type: book
+data:
+  title: 管理会计学 学习指导书 第8版
+  authors:
+    - 孙茂竹
+    - 支晓强
+    - 戴璐
+  edition: "8"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-25843-0
+  filetype: pdf

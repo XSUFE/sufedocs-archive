@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 5d9fb942e0a9d8a1e5471ab815dd13e4
+url: https://docs.xsufe.com/files/5d9fb942e0a9d8a1e5471ab815dd13e4.pdf
+type: book
+data:
+  title: "Cost accounting : a managerial emphasis"
+  authors:
+    - Charles T. Horngren
+    - Srikant M. Datar
+    - Madhav V. Rajan
+  edition: "15"
+  publisher: Pearson Education Limited
+  publish_year: "2015"
+  isbn:
+    - 978-1-292-01822-5
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ca7d4704809be368a9582bce35086d6e
+url: https://docs.xsufe.com/files/ca7d4704809be368a9582bce35086d6e.pdf
+type: book
+data:
+  title: 建筑业增值税管理与会计实务
+  authors:
+    - 何广涛
+  edition: "2"
+  publisher: 中国财政经济出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5095-9606-7
+  filetype: pdf

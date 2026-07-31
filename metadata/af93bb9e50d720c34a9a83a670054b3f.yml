@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: af93bb9e50d720c34a9a83a670054b3f
+url: https://docs.xsufe.com/files/af93bb9e50d720c34a9a83a670054b3f.pdf
+type: book
+data:
+  title: 企业财务会计
+  authors:
+    - 庄瑞澄
+    - 卢永华
+  edition: "2"
+  publisher: 天津大学出版社
+  publish_year: "1995"
+  isbn:
+    - 978-7-5618-0827-6
+  filetype: pdf

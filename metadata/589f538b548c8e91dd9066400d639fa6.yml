@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 589f538b548c8e91dd9066400d639fa6
+url: https://docs.xsufe.com/files/589f538b548c8e91dd9066400d639fa6.pdf
+type: book
+data:
+  title: 民法（第七版）
+  authors:
+    - 王成
+  edition: "7"
+  publisher: 北京大学出版社，高等教育出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-301-28635-7
+  filetype: pdf

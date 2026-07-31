@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 000827380539123cc4e04bcafe371a5d
+url: https://docs.xsufe.com/files/000827380539123cc4e04bcafe371a5d.pdf
+type: book
+data:
+  title: 伦理学与生活 （第九版）
+  authors:
+    - 雅克·蒂洛
+    - 基思·克拉斯曼
+  translators:
+    - 程立显
+    - 刘建
+  edition: "9"
+  publisher: 世界图书出版公司
+  publish_year: "2008"
+  isbn:
+    - 978-7-5062-9302-0
+  filetype: pdf

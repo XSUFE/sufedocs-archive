@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 646c3ef40b53660d9594757f4b35b4e3
+url: https://docs.xsufe.com/files/646c3ef40b53660d9594757f4b35b4e3.pdf
+type: book
+data:
+  title: 西方经济学 下册
+  authors:
+    - <西方经济学>编写组
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-04-052641-7
+  filetype: pdf
